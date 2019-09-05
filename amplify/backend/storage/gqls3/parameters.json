@@ -1,7 +1,7 @@
 {
-    "bucketName": "gqlimages6c6fe270f2fb4f15ac41a2bbc219a1b4",
-    "authPolicyName": "s3_amplify_5d3914ea",
-    "unauthPolicyName": "s3_amplify_5d3914ea",
+    "bucketName": "gqlimages6c6fe270f2fb4f15ac41a2bbc219a1b4dew4434",
+    "authPolicyName": "s3amplify5d3914eawsasd323",
+    "unauthPolicyName": "s3amplify5d3914eaddwe44",
     "authRoleName": {
         "Ref": "AuthRoleName"
     },
